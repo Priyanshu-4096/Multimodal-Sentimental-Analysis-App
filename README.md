@@ -216,59 +216,6 @@ Color Temperature: Warm and energetic
 Composition: Bright and cheerful
 ```
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**1. Model Download Errors**
-```bash
-# Clear cache and retry
-rm -rf ~/.cache/huggingface
-pip install --upgrade transformers
-```
-
-**2. DeepFace Installation Issues**
-```bash
-# Install specific version
-pip install deepface==0.0.79
-```
-
-**3. Memory Errors**
-- Close other applications
-- Use CPU instead of GPU: Set `device=-1` in code
-- Reduce batch size
-
-**4. OpenCV Errors (Linux)**
-```bash
-sudo apt-get install python3-opencv
-pip install opencv-python-headless
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Setup
-
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-pytest tests/
-
-# Format code
-black app.py
-
-# Lint code
-flake8 app.py
-```
 
 ## 📝 License
 
@@ -278,9 +225,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Priyanshu Joarder**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/Priyanshu-4096)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/priyanshu-joarder-308724144/)
 
 ## 🙏 Acknowledgments
 
@@ -289,35 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [DeepFace](https://github.com/serengil/deepface) - Face analysis library
 - [Plotly](https://plotly.com/) - Interactive visualizations
 
-## 📈 Roadmap
-
-- [ ] Add video sentiment analysis
-- [ ] Support for more languages
-- [ ] REST API endpoint
-- [ ] Docker containerization
-- [ ] Real-time webcam analysis
-- [ ] Custom model fine-tuning
-- [ ] Mobile app version
-
-## 📚 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{joarder2024multimodal,
-  title={Multimodal Sentiment Analysis System},
-  author={Joarder, Priyanshu},
-  year={2024},
-  url={https://github.com/yourusername/multimodal-sentiment-analysis}
-}
-```
-
-## 💬 Support
-
-For support, email your.email@example.com or open an issue on GitHub.
-
----
 
 <div align="center">
-Made with ❤️ by Priyanshu Joarder
+Made by Priyanshu Joarder
 </div>

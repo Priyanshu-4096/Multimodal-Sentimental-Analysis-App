@@ -7,7 +7,6 @@
 
 An advanced ML-based sentiment analysis application that performs comprehensive analysis on both text and images using state-of-the-art deep learning models.
 
-![App Screenshot](assets/screenshot.png)
 
 ## ✨ Features
 
@@ -225,8 +224,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Priyanshu Joarder**
 
-- GitHub: [@yourusername](https://github.com/Priyanshu-4096)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/priyanshu-joarder-308724144/)
+- GitHub: (https://github.com/Priyanshu-4096)
+- LinkedIn: (https://www.linkedin.com/in/priyanshu-joarder-308724144/)
 
 ## 🙏 Acknowledgments
 

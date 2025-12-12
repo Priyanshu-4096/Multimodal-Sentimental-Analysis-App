@@ -224,8 +224,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Priyanshu Joarder**
 
-- GitHub: (https://github.com/Priyanshu-4096)
-- LinkedIn: (https://www.linkedin.com/in/priyanshu-joarder-308724144/)
+- GitHub: https://github.com/Priyanshu-4096
+- LinkedIn: https://www.linkedin.com/in/priyanshu-joarder-308724144/
 
 ## 🙏 Acknowledgments
 

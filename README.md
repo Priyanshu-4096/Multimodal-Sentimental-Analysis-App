@@ -38,7 +38,7 @@ An advanced ML-based sentiment analysis application that performs comprehensive 
 
 ## 🚀 Demo
 
-Try the live demo: [Link to deployed app]
+Try the live demo: https://multimodal-sentimental-analysis-app-pj.streamlit.app/
 
 ## 📋 Prerequisites
 
